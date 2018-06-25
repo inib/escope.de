@@ -30,8 +30,7 @@ class Disqus extends Component {
         shortname={siteMetadata.disqusShortname}
         identifier={post.title}
         title={post.title}
-        url={url}
-        category_id={post.category_id}
+        url={url}        
         onNewComment={this.notifyAboutComment}
       />
     );
