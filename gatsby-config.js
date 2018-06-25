@@ -4,7 +4,7 @@ module.exports = {
     title: 'electronic-telescope',
     subtitle: 'stargazing and making things - this website is currently rebuilt from the old wordpress blog - it may take some time to get all content back and working',
     copyright: '© All rights reserved.',
-    disqusShortname: 'alpinespielt',
+    disqusShortname: 'escope-1',
     menu: [
       {
         label: 'Articles',
