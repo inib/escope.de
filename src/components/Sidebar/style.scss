@@ -6,20 +6,35 @@
     &__inner {        
         padding: 25px 20px 0;
     }
+    &__title {
+        font-size: $typographic-base-font-size * 1.5;
+        font-weight: 500;
+        @include line-height(1.5);
+        @include margin(.5, 0, .5, 0);
+        &-link {
+            color: $color-base;
+            &:hover,
+            &:focus {
+                color: $color-base;
+            }
+        }
+    }
     &__author {
         &-photo {
-            display: inline-block;
+            display: inline-block;            
             margin-bottom: 0;
-            border-radius: 50%;
-            background-clip: padding-box;
+            max-height: 125px;
+            /* border-radius: 50%; */
+            /* background-clip: padding-box; */
         }
         &-title {
-            font-size: $typographic-base-font-size * 1.125;
+            font-size: $typographic-base-font-size * 0.8;
             font-weight: 500;
-            @include line-height(1.125);
+            color: $color-gray;
+            @include line-height(0.8);
             @include margin(.5, 0, .5, 0);
             &-link {
-                color: $color-base;
+                color: $color-gray;
                 &:hover,
                 &:focus {
                     color: $color-base;
