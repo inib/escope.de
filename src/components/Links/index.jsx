@@ -30,8 +30,6 @@ class Links extends React.Component {
               <i className="icon-mail" />
             </a>
           </li>
-        </ul>
-        <ul className="links__list">
           <li className="links__list-item">
             <a href={links.rss}>
               <i className="icon-rss" />

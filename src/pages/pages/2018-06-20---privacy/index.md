@@ -4,6 +4,8 @@ layout: page
 path: "/privacy"
 ---
 
+*moved to netlify - update privycy accordingly*
+
 ## The data on this website
 
 This website runs on a server located in a german data center. The server is managed and maintained by myself, no third parties should have access to the files. 
