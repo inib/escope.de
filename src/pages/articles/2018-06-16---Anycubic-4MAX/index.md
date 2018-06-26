@@ -193,9 +193,11 @@ As mentioned, I already upgraded my 4MAX with a few things, I'll cover them in f
 
 ![](./anycubic_4max-4max_final_form.jpg "the current state of my 4MAX")
 
-Would I recommend it? Yeah...well..I..don't..know. I assume everyone, that goes for a 3D printer kit has at least some experience in electro mechanical design or wants to get used to it. The assembly isn't very demanding, but you have to get everything calibrated and well aligned, before you turn on a powerful stepper motor. I also would keep in mind, that you probably want to upgrade your hotend and extruder at some point. 
+Would I recommend it? Yeah...well..I..don't..know. I assume everyone, that goes for a 3D printer kit has at least some experience in electro mechanical design or wants to get used to it. The assembly isn't very demanding, but you have to get everything calibrated and well aligned, before you turn on a powerful stepper motor. I also would keep in mind, that you probably want to upgrade at least your hotend at some point.
 
- As a student, I designed, built and worked with custom computer controlled optical microscopes.
+Overall you get great value for your money and a decent working machine. If you want something working perfectly out of the box, I don't think you should consider a chinese printer kit around 300 Euros anyways.
+
+I hope this article is helpful for anybody reading all the way through it, if you have any specific questions, feel free to comment below or contact me directly.
 
 ## Links
 
