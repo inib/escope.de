@@ -195,14 +195,10 @@ As mentioned, I already upgraded my 4MAX with a few things, I'll cover them in f
 
 Would I recommend it? Yeah...well..I..don't..know. I assume everyone, that goes for a 3D printer kit has at least some experience in electro mechanical design or wants to get used to it. The assembly isn't very demanding, but you have to get everything calibrated and well aligned, before you turn on a powerful stepper motor. I also would keep in mind, that you probably want to upgrade your hotend and extruder at some point. 
 
- As a student, I designed, built and worked with custom computer controlled optical microscopes. 
-
-### two
-
-[comment]: # text
-
-Link [Link](http://www.zwoptical.com/Eng/Contact/index.asp).
+ As a student, I designed, built and worked with custom computer controlled optical microscopes.
 
 ## Links
 
-- [ZWOptical](http://www.zwoptical.com/Eng/)
+- [Anycubic 4MAX product page](http://www.anycubic3d.com/products/show/1021.html)
+- [Anycubic 4MAX support page](http://www.anycubic3d.com/support/show/594033.html)
+- [Facebook Anycubic Group](https://www.facebook.com/groups/650270968508148/)
