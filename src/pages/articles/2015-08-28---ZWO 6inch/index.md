@@ -126,11 +126,7 @@ Solar system imaging is no problem. The cameras are light, have no backfocus pro
 
 The contact to ZWO was just a pleasure. We shared pictures and experiences, also Wen from ZWO is a member of the cloudynights community and is fluent in english. The telescope was send to me via express mail in two small parcels. Check your local toll and tax laws, if you have to expect additional costs.
 
-You can also ask your local distributor of ZWO [Link](http://www.zwoptical.com/Eng/Contact/index.asp).
-
 ## Links
 
-- [ZWOptical](http://www.zwoptical.com/Eng/)
-- [ZW153 Page](http://www.zwoptical.com/Eng/Optics/153/index.asp)
-- [ZWO "Mirror Lab"](http://www.zwoptical.com/Eng/Optics/Lib/index.asp)
+- [ZWOptical](http://www.zwoptical.com/Eng/)- 
 - [ZWO User Group](http://zwoug.org/)

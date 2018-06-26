@@ -17,10 +17,6 @@ module.exports = {
       {
         label: 'Privacy',
         path: '/privacy/'
-      },
-      {
-        label: 'Contact me',
-        path: '/contact/'
       }
     ],
     author: {
@@ -28,7 +24,7 @@ module.exports = {
       email: 'mail@kheel.de',
       twitter: '@kauterisator',
       github: 'inib',
-      rss: '#'
+      rss: '/rss.xml'
     }
   },
   plugins: [
