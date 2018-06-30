@@ -17,6 +17,10 @@ description: "The Anycubic 4MAX is my entry printer into the world of FDM 3D pri
 
 Choosing the right 3D printer to get started in the world of FDM printing is a bit like choosing your first digital camera. So the easiest choice would have been just to look up the most popular printers in the desired price range and get one with a decent curated community. But unfortunately I'm not that easy. Go for the latest, try to get the maximum for the money and take some risks.
 
+<p class="post-single__body__video">
+<iframe src="https://www.youtube-nocookie.com/embed/qpyNxLB484Q?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</p>
+
 That brought me to the Anycubic 4MAX. I ordered this printer from AliExpress mostly based on the questionable translated product translation and a few snippets of information I could find on the Internet only a few weeks after its release in spring 2018.
 
 I had a few key points written together for my future 3D printer and the 4MAX matched most of them:
