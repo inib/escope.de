@@ -11,7 +11,7 @@ tags:
   - "marlin firmware"
   - "titan aero"
   - "extruder"
-description: "desc"
+description: "TMC2208 Stepsticks - Simple upgrade for the noisy and old steper drivers for the anycubic 4MAX"
 ---
 
 ## It's a mess pt.1 - TMC2208 stepper drivers
@@ -31,7 +31,7 @@ There are only 2 things to do:
 #### set an appropriate Vref
 
 <p class="post-single__body__video">
-<iframe src="https://www.youtube.com/watch?v=5mLMEwRi0V8?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/5mLMEwRi0V8?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>
 
 With the Vref you limit the current that goes through the motor. I chose a value of about 0.5-0.6 A with led to a Vref of 0.7-0.85 V on my TMC2208s (see https://learn.watterott.com/silentstepstick/faq/ for the watterod stepsticks)
