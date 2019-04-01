@@ -2,7 +2,7 @@
 title: Upgrading the Anycubic 4MAX
 date: "2019-04-01T00:00:00.000Z"
 layout: post
-draft: true
+draft: false
 path: "/posts/upgrade-4max/"
 category: "Upgrade"
 tags:
