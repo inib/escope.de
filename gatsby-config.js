@@ -30,7 +30,7 @@ module.exports = {
     author: {
       name: 'Korbinian Heel',
       email: 'mail@kheel.de',
-      twitter: '@kauterisator',
+      twitter: '@alpineMakes',
       github: 'inib',
       rss: '/rss.xml'
     }
