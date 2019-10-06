@@ -11,6 +11,10 @@ module.exports = {
         path: '/'
       },
       {
+        label: 'my 3D printers',
+        path: '/3dprinters/'
+      },
+      {
         label: 'About me',
         path: '/about/'
       },
@@ -22,7 +26,7 @@ module.exports = {
     author: {
       name: 'Korbinian Heel',
       email: 'mail@kheel.de',
-      twitter: '@kauterisator',
+      twitter: '@alpineMakes',
       github: 'inib',
       rss: '/rss.xml'
     }
