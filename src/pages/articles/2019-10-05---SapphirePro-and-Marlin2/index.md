@@ -27,7 +27,7 @@ I can just guess the advantages and disadvantages until now, but I always dislik
 
 My Sapphire Pro already came with an updated firmware version (v1.0.3) and had a basic UI with the most common controls. I won't be too harsh with this type of printer control, because I think this the right direction, but we are still not where we need to be. Using this UI feels like the first touch screen phones from the early 2000s, than a current development.
 
-![alt text](./hp_sapphire_board-4.jpg "UI on the 3.5" TFT")
+![alt text](./hp_sapphire_board-4.jpg "UI on the 3.5 TFT")
 
 Looking a little bit deeper I found the config file, that allows a decent amount of tweaking. If you're familiar with some printer firmware configuration files, you may recognize something like this here:
 
