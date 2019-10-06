@@ -12,7 +12,6 @@ tags:
   - "MKS Robin Nano
 description: "The Sapphire Pro from TwoTrees comes shipped with a MKS Robin Nano board. While the board is open, its firmware is not and so you can hardly modify anything. Instead of replacing the board I managed to get Marlin working this machine."
 ---
-<!--![alt text](./anycubic_4max_logo.jpg)-->
 
 ## The MKS Robin Nano
 
