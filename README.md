@@ -1,5 +1,7 @@
 # escope.de
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/28be1ce1-e2ef-4ec1-a213-0eb30685c72e/deploy-status)](https://app.netlify.com/sites/escope/deploys)
+
 This website is based on gastby with the gatsby-starter-lumen blog template.
 
 ## LICENSE
