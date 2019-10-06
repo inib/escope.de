@@ -19,11 +19,15 @@ description: "The Sapphire Pro from TwoTrees comes shipped with a MKS Robin Nano
 
 The Robin series from MKS features the STM32f103vet6 microprocessor, including a FSMC interface. This way the display can directly be driven from the same microprocessor and memory. The typical other TFT screens usually run on their own and are just interfaced via G-Code.
 
+![alt text](./hp_sapphire_board-1.jpg "The MKS Robin Nano board with TFT connected via FSMC")
+
 I can just guess the advantages and disadvantages until now, but I always disliked the idea of the standalone displays and also sticked to a classic 128x64 LCD on my other 32bit machine.
 
 ### MKS firmware
 
 My Sapphire Pro already came with an updated firmware version (v1.0.3) and had a basic UI with the most common controls. I won't be too harsh with this type of printer control, because I think this the right direction, but we are still not where we need to be. Using this UI feels like the first touch screen phones from the early 2000s, than a current development.
+
+![alt text](./hp_sapphire_board-4.jpg "UI on the 3.5" TFT")
 
 Looking a little bit deeper I found the config file, that allows a decent amount of tweaking. If you're familiar with some printer firmware configuration files, you may recognize something like this here:
 
@@ -80,7 +84,9 @@ This out of the way, we can all agree, that having the latest Marlin build on yo
 
 Like a lot of the 32 bit boards, this one also has a bootloader, that sucks files from the SD card and updates on start-up, no complicated serial STM-Link clamps. With the current MKS firmware you can also throw config files and encoded pictures at it to update the appearance and change the settings with just one reboot.
 
-Since there was no real instruction manual for doing this and the files from the main branch of marlin wouldn't load I had to research a bit and found the clue: the bootloader looks for *Robin_nano35.bin* and not *Robin_nano.bin* like the compiler spits out. So has been customized by MKS/TwoTrees. (with v1.0.3)
+![alt text](./hp_sapphire_board-3.jpg "MKS Robin TFT35 V1.0")
+
+Since there was no real instruction manual for doing this and the files from the main branch of marlin wouldn't load I had to research a bit and found the clue: the bootloader looks for *Robin_nano35.bin* and not *Robin_nano.bin* like the compiler spits out. So has been customized by MKS/TwoTrees. (with v1.0.3 - *Edit: apparently there are different versions out there, some with different bootloaders*)
 
 ![alt text](./hp_sapphire_updating-1.jpg "firmware update on the MKS Robin")
 
@@ -152,6 +158,8 @@ What now had to follow is the typical boring job of adjusting and fine tuning fe
 This will be covered more in detail in a separate post, but here are all the resources you need.
 
 You'll need platformIO to compile everything. Rename your *Robin_nano.bin* to *Robin_nano35.bin*, put it on your microSD and start the printer with it and it should update.
+
+<small>This does not apply to every revision of the Sapphire Pro - some have standard bootloaders, where <i>Robin_nano.bin</i> is right.</small>
 
 * [my github branch for the Sapphire Pro](https://github.com/inib/Marlin/tree/2.0.X-SapphirePro-3.5TFT)
 * [commits made](https://github.com/inib/Marlin/commits/2.0.X-SapphirePro-3.5TFT)
