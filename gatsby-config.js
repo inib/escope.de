@@ -11,10 +11,6 @@ module.exports = {
         path: '/'
       },
       {
-        label: '3D printing',
-        path: '/3dprinting/'
-      },
-      {
         label: 'my 3D printers',
         path: '/3dprinters/'
       },
