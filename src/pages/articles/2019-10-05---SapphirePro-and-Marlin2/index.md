@@ -187,3 +187,4 @@ alpine
 * [MKS issue on this topic](https://github.com/makerbase-mks/MKS-Robin/issues/124)
 * [(German) Megathread Drucktipps3D Forum](https://drucktipps3d.de/forum/topic/schon-gesehen-sapphire-s-pro/)
 * [(German) Marlinthread Drucktipps3D Forum](https://drucktipps3d.de/forum/topic/sapphirepro-mit-marlin-2-0-mks-robin-nano/)
+* [MKS firmware 1.0.3 updated](https://drive.google.com/open?id=12txYXUU0fFhB5YxIwPCfPzA3WpcIs9Tv)
