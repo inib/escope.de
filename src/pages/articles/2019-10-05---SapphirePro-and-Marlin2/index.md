@@ -19,9 +19,13 @@ description: "The Sapphire Pro from TwoTrees comes shipped with a MKS Robin Nano
 
 The Robin series from MKS features the STM32f103vet6 microprocessor, including a FSMC interface. This way the display can directly be driven from the same microprocessor and memory. The typical other TFT screens usually run on their own and are just interfaced via G-Code.
 
-![alt text](./hp_sapphire_board-1.jpg "The MKS Robin Nano board with TFT connected via FSMC")
+<p class="post-single__body__video">
+<iframe src="https://www.youtube-nocookie.com/embed/HtlUYJ9S-b4?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</p>
 
 I can just guess the advantages and disadvantages until now, but I always disliked the idea of the standalone displays and also sticked to a classic 128x64 LCD on my other 32bit machine.
+
+![alt text](./hp_sapphire_board-1.jpg "The MKS Robin Nano board with TFT connected via FSMC")
 
 ### MKS firmware
 
