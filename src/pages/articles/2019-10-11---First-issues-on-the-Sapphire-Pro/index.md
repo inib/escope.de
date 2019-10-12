@@ -17,6 +17,10 @@ description: "Already during the assembly, I noticed the first issues with the S
 
 Already during the assembly of the Sapphire Pro I raised my eyebrow several times. And it came worse afterwards. The endstop microswitches just seemed to be either poorly placed or just the wrong type of endstop for their position. I completely reworked the hotend and later on, the cloned BMG tried to fool me.
 
+<p class="post-single__body__video">
+<iframe src="https://www.youtube-nocookie.com/embed/_tloMJOFBV0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</p>
+
 It was not really complicated to fix the issues and I just was cautious, because I had similar problems already in the past with other printers.
 
 ### The end stops
