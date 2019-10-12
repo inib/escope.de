@@ -15,6 +15,10 @@ module.exports = {
         path: '/3dprinters/'
       },
       {
+        label: 'Druck Service DE',
+        path: '/druck-service/'
+      },
+      {
         label: 'About me',
         path: '/about/'
       },

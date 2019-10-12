@@ -1,11 +1,7 @@
 ---
 title: "3D printing"
 layout: page
-path: "/3dprinting"
+path: "/3D printing"
 ---
 
-## what is 3d printing
-
-### what is possible
-
-### what makes the hobby
+## site
